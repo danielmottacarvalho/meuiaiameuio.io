@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://danielmotta.com/sitemap.xml
-Host: https://danielmotta.com
+Sitemap: https://bolsonaro.gripe/sitemap.xml
+Host: https://bolsonaro.gripe
